@@ -1,0 +1,9 @@
+Wrong: I did not understood.
+Right: I did not understand
+
+
+wrong:
+Last week, our manager inform the whole team that we was going to launch the new software application ahead of schedule. Everyone becoming instantly stressed because we still needed to fix several critical bugs that affects the user interface. My colleague tryed to complete his tasks quickly, but he accidentaly deleted an important database file from the main server. Fortunately, our lead developer had already save a backup copy the day before, which prevented a total disaster from happening. We all learned a valuable lesson about patience and why it is neccesary to double-check our work.
+
+Right:
+Last week, our manager informed the whole team that we were going to launch the new software application ahead of schedule. Everyone became instantly stressed because we still needed to fix several critical bugs that affected the user interface. My colleague tried to complete his tasks quickly, but he accidentally deleted an important database file from the main server. Fortunately, our lead developer had already saved a backup copy the day before, which prevented a total disaster from happening. We all learned a valuable lesson about patience and why it is necessary to double-check our work.
